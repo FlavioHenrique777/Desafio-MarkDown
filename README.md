@@ -1,4 +1,4 @@
 # Desafio-MarkDown
 
 ## Flávio Henrique
-### Aluno do Curso Técnico de Informática @Senac Americana
+- [x] Aluno do Curso Técnico de Informática _@Senac Americana_
