@@ -7,3 +7,6 @@
 *Americana , São Paulo , Brazil* 
 
 **Redes Sociais**
+- Linkedin 
+- Instagram 
+- Facebook 
