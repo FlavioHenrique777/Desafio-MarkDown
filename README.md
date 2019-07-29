@@ -4,7 +4,7 @@
 - [x] Aluno do Curso Técnico de Informática _@Senac Americana_
 - [x] Cursando o Terceiro ano do Ensino Médio 
 
-*Americana , São Paulo , Brazil* 
+**_Americana , São Paulo , Brazil_** 
 
 **Redes Sociais**
 - [Instagram](https://www.instagram.com/flavio_henriquee7/) 
