@@ -7,6 +7,5 @@
 *Americana , São Paulo , Brazil* 
 
 **Redes Sociais**
-- Linkedin 
-- Instagram 
-- Facebook 
+- [Instagram] (https://www.instagram.com/flavio_henriquee7/) 
+- [Facebook] (https://www.facebook.com/flavio.henriqueoliveirasantos)
